@@ -1,0 +1,22 @@
+{
+    "name": "gumphp/hyperf-helper",
+    "description": "hyperf framework helper",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Gumphp\\Helper\\": "src/"
+        },
+        "files": [
+            "src/helper.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "chen",
+            "email": "18814515@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
